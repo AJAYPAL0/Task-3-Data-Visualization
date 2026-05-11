@@ -1,0 +1,1 @@
+In this task, data visualization techniques were applied to analyze restaurant data. Various graphs such as bar charts, histograms, scatter plots, and count plots were created using Matplotlib and Seaborn libraries. The visualizations helped identify restaurant popularity, rating distribution, online delivery availability, and the relationship between votes and ratings.
